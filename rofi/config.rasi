@@ -147,4 +147,4 @@ configuration {
 }
 
 //@theme "/home/kuba/.local/share/rofi/themes/nord.rasi"
-@theme "/home/kuba/.local/share/rofi/themes/iceberg.rasi"
+@theme "/home/kuba/.dotfiles/rofi/themes/iceberg.rasi"
