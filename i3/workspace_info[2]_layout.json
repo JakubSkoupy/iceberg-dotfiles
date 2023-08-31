@@ -1,0 +1,24 @@
+{
+    "border": "pixel",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1001,
+       "width": 1884,
+       "x": 28,
+       "y": 49
+    },
+    "marks": [],
+    "name": "Google Calendar - Week of August 21, 2023 - Chromium",
+    "percent": 1,
+    "swallows": [
+       {
+       "class": "^Chromium$",
+       "instance": "^chromium$",
+       "machine": "^blackelf$",
+       "title": "^Google\\ Calendar\\ \\-\\ Week\\ of\\ August\\ 21\\,\\ 2023\\ \\-\\ Chromium$",
+       "window_role": "^browser$"
+       }
+    ],
+    "type": "con"
+}
