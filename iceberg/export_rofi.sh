@@ -6,6 +6,8 @@ workspace_move="/home/kuba/.dotfiles/rofi/workspace_move"
 x_switch="exec --no-startup-id python3 /home/kuba/.dotfiles/i3/i3-wk-switch/i3-wk-switch.py"
 
 lines="$(cat $input)"
+rm "$workspace/*"
+rm "$workspace_move/*"
 
 for l in $lines; do
   filename="${l}"

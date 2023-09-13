@@ -1,38 +1,21 @@
 main
 info
 docs
-term
-
 media
-
-
 is
 sys
-bg
-files
 design
-vid
 obs
-
 steam
-term
-brfun
 bro
 term
-term
-config_i3
-
-config_polybar
-
-config_iceberg
-config_nvim
-config_ranger
+dotfiles
 
 
+bro_secondary
+discord
+chat
+pb071
 
-build
-bro
-sys
-clock
-config_dotfiles
-
+HIDDEN
+mb142

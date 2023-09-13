@@ -1,0 +1,733 @@
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506917356784 ~
+[{"success":true}]
+dotfiles 94506917356784 bash ~/.dotfiles/iceberg/workspaces/minimize.sh 
+[{"success":true}]
+dotfiles 94506917356784 ~
+[{"success":true}]
+dotfiles 94506917356784 ~
+[{"success":true}]
+dotfiles 94506917356784 ~
+[{"success":true}]
+dotfiles 94506917356784 ~
+[{"success":true}]
+dotfiles 94506916140464 ~
+[{"success":true}]
+info 94506915949232 ~
+[{"success":true}]
+info 94506916124368 [info] Reddit - Dive into anything — Mozilla Firefox
+[{"success":true}]
+info 94506917357232 ~
+[{"success":true}]
+dotfiles 94506916141072 ~
+[{"success":true}]
+dotfiles 94506916453424 ~
+[{"success":true}]
+dotfiles 94506916453424 ~
+[{"success":true}]
+dotfiles 94506916453424 ~
+[{"success":true}]
+dotfiles 94506916453424 ~
+[{"success":true}]
+dotfiles 94506916453424 ~
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'window', 'container', 'to', '--no-auto-back-and-forth', 'workspace', 'output', 'mark', 'scratchpad', 'left', 'right', 'up', 'down', 'position', 'absolute'","input":"move [ con_id=\"94506916453424\" ] to scratchpad","errorposition":"     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"}]
+dotfiles 94506916453424 ~
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'window', 'container', 'to', '--no-auto-back-and-forth', 'workspace', 'output', 'mark', 'scratchpad', 'left', 'right', 'up', 'down', 'position', 'absolute'","input":"move [ con_id=\"94506916453424\" ] to scratchpad","errorposition":"     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"}]
+dotfiles 94506916453424 ~
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'window', 'container', 'to', '--no-auto-back-and-forth', 'workspace', 'output', 'mark', 'scratchpad', 'left', 'right', 'up', 'down', 'position', 'absolute'","input":"move [ con_id=\"94506916453424\" ] to scratchpad","errorposition":"     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"}]
+dotfiles 94506916453424 ~
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'window', 'container', 'to', '--no-auto-back-and-forth', 'workspace', 'output', 'mark', 'scratchpad', 'left', 'right', 'up', 'down', 'position', 'absolute'","input":"move [ con_id=\"94506916453424\" ] to scratchpad","errorposition":"     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"}]
+dotfiles 94506916453424 ~
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'window', 'container', 'to', '--no-auto-back-and-forth', 'workspace', 'output', 'mark', 'scratchpad', 'left', 'right', 'up', 'down', 'position', 'absolute'","input":"move [ con_id=\"94506916453424\" ] to scratchpad","errorposition":"     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"}]
+dotfiles 94506916453424 ~
+[{"success":true}]
+dotfiles 94506916453424 ~
+[{"success":true}]
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'show'","input":"[ con_id=\"94506916453424\" ] scratchpad move","errorposition":"                                       ^^^^"}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'show'","input":"[ con_id=\"94506917125552\" ] scratchpad hide","errorposition":"                                       ^^^^"}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'show'","input":"[ con_id=\"94506917125552\" ] scratchpad hide","errorposition":"                                       ^^^^"}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'show'","input":"[ con_id=\"94506917125552\" ] scratchpad hide","errorposition":"                                       ^^^^"}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+dotfiles 94506917125552 ~
+[{"success":true}]
+dotfiles 94506916141072 ~
+[{"success":true}]
+dotfiles 94506916141072 ~
+[{"success":true}]
+steam 94506917160272 
+[{"success":false,"error":"Nothing to move: workspace empty"}]
+steam 94506917160272 
+[{"success":false,"error":"Nothing to move: workspace empty"}]
+steam 94506917160272 
+[{"success":false,"error":"Nothing to move: workspace empty"}]
+steam 94506917160272 
+[{"success":false,"error":"Nothing to move: workspace empty"}]
+steam 94506917160272 
+[{"success":false,"error":"Nothing to move: workspace empty"}]
+steam 94506917160272 
+[{"success":false,"error":"Nothing to move: workspace empty"}]
+dotfiles 94506916141072 ~
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'to ', 'next_on_output', 'prev_on_output', 'next', 'prev', 'current', 'back_and_forth', 'number', <string>","input":"[ con_id=\"94506916141072\" ] move window to workspace ","errorposition":"                                                     "}]
+dotfiles 94506916141072 ~
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'to ', 'next_on_output', 'prev_on_output', 'next', 'prev', 'current', 'back_and_forth', 'number', <string>","input":"[ con_id=\"94506916141072\" ] move window to workspace ","errorposition":"                                                     "}]
+dotfiles 94506916141072 ~
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'to ', 'next_on_output', 'prev_on_output', 'next', 'prev', 'current', 'back_and_forth', 'number', <string>","input":"[ con_id=\"94506916141072\" ] move window to workspace ","errorposition":"                                                     "}]
+dotfiles 94506916141072 ~
+[{"success":false,"parse_error":true,"error":"Expected one of these tokens: 'to ', 'next_on_output', 'prev_on_output', 'next', 'prev', 'current', 'back_and_forth', 'number', <string>","input":"[ con_id=\"94506916141072\" ] move window to workspace ","errorposition":"                                                     "}]
+dotfiles 94506916141072 ~
+[{"success":true}]
+%{F#000000}%{F-} 94506917159808 ~
+[{"success":true}]
+%{F#000000} 94506917159808 ~
+[{"success":true}]
+dotfiles 94506917379552 ~
+[{"success":true}]
+dotfiles 94878150264608 ~
+[{"success":true}]
+dotfiles 94878150264608 ~
+[{"success":true}]
+dotfiles 94878150264608 ~
+[{"success":true}]
+dotfiles 94878150264608 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94878150264608 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94878150264608 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94878150264608 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94878150264608 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94878150264608 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94878150264608 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94878150264608 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94878150264608 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94911641401152 ~
+[{"success":true}]
+[{"success":true}]
+2 94561666690144 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94491307104384 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94491307104384 ~
+[{"success":true}]
+[{"success":true}]
+steam 94491307775280 Friends List
+[{"success":true}]
+[{"success":true}]
+steam 94491307775280 Friends List
+[{"success":true}]
+[{"success":true}]
+steam 94491307775280 Friends List
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393195856 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393195856 ~
+[{"success":true}]
+dotfiles 94201394122608 ~
+[{"success":true}]
+dotfiles 94201394122608 ~
+[{"success":true}]
+dotfiles 94201394122016 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394121552 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true},{"success":false,"parse_error":true,"error":"Expected one of these tokens: <end>, '[', 'move', 'exec', 'exit', 'restart', 'reload', 'shmlog', 'debuglog', 'border', 'layout', 'append_layout', 'workspace', 'focus', 'kill', 'open', 'fullscreen', 'sticky', 'split', 'floating', 'mark', 'unmark', 'resize', 'rename', 'nop', 'scratchpad', 'swap', 'title_format', 'title_window_icon', 'mode', 'bar', 'gaps'","input":"[ con_id=\"94201394106784\" ] floating disable dotfiles","errorposition":"                                             ^^^^^^^^"}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true},{"success":false,"parse_error":true,"error":"Expected one of these tokens: <end>, '[', 'move', 'exec', 'exit', 'restart', 'reload', 'shmlog', 'debuglog', 'border', 'layout', 'append_layout', 'workspace', 'focus', 'kill', 'open', 'fullscreen', 'sticky', 'split', 'floating', 'mark', 'unmark', 'resize', 'rename', 'nop', 'scratchpad', 'swap', 'title_format', 'title_window_icon', 'mode', 'bar', 'gaps'","input":"[ con_id=\"94201393281344\" ] floating disable dotfiles","errorposition":"                                             ^^^^^^^^"}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true},{"success":false,"parse_error":true,"error":"Expected one of these tokens: <end>, '[', 'move', 'exec', 'exit', 'restart', 'reload', 'shmlog', 'debuglog', 'border', 'layout', 'append_layout', 'workspace', 'focus', 'kill', 'open', 'fullscreen', 'sticky', 'split', 'floating', 'mark', 'unmark', 'resize', 'rename', 'nop', 'scratchpad', 'swap', 'title_format', 'title_window_icon', 'mode', 'bar', 'gaps'","input":"floating disable dotfiles","errorposition":"                 ^^^^^^^^"}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true},{"success":false,"parse_error":true,"error":"Expected one of these tokens: <end>, '[', 'move', 'exec', 'exit', 'restart', 'reload', 'shmlog', 'debuglog', 'border', 'layout', 'append_layout', 'workspace', 'focus', 'kill', 'open', 'fullscreen', 'sticky', 'split', 'floating', 'mark', 'unmark', 'resize', 'rename', 'nop', 'scratchpad', 'swap', 'title_format', 'title_window_icon', 'mode', 'bar', 'gaps'","input":"floating disable dotfiles","errorposition":"                 ^^^^^^^^"}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true},{"success":false,"parse_error":true,"error":"Expected one of these tokens: <end>, '[', 'move', 'exec', 'exit', 'restart', 'reload', 'shmlog', 'debuglog', 'border', 'layout', 'append_layout', 'workspace', 'focus', 'kill', 'open', 'fullscreen', 'sticky', 'split', 'floating', 'mark', 'unmark', 'resize', 'rename', 'nop', 'scratchpad', 'swap', 'title_format', 'title_window_icon', 'mode', 'bar', 'gaps'","input":"floating disable dotfiles","errorposition":"                 ^^^^^^^^"}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true},{"success":false,"parse_error":true,"error":"Expected one of these tokens: <end>, '[', 'move', 'exec', 'exit', 'restart', 'reload', 'shmlog', 'debuglog', 'border', 'layout', 'append_layout', 'workspace', 'focus', 'kill', 'open', 'fullscreen', 'sticky', 'split', 'floating', 'mark', 'unmark', 'resize', 'rename', 'nop', 'scratchpad', 'swap', 'title_format', 'title_window_icon', 'mode', 'bar', 'gaps'","input":"[ con_id=\"94201393281344\" ] floating disable dotfiles","errorposition":"                                             ^^^^^^^^"}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true},{"success":false,"parse_error":true,"error":"Expected one of these tokens: <end>, '[', 'move', 'exec', 'exit', 'restart', 'reload', 'shmlog', 'debuglog', 'border', 'layout', 'append_layout', 'workspace', 'focus', 'kill', 'open', 'fullscreen', 'sticky', 'split', 'floating', 'mark', 'unmark', 'resize', 'rename', 'nop', 'scratchpad', 'swap', 'title_format', 'title_window_icon', 'mode', 'bar', 'gaps'","input":"[ con_id=\"94201393281344\" ] floating disable dotfiles","errorposition":"                                             ^^^^^^^^"}]
+[{"success":true}]
+dotfiles 94201393281344 bash ~/.dotfiles/iceberg/workspaces/minimize.sh
+[{"success":true}]
+[{"success":true},{"success":false,"parse_error":true,"error":"Expected one of these tokens: <end>, '[', 'move', 'exec', 'exit', 'restart', 'reload', 'shmlog', 'debuglog', 'border', 'layout', 'append_layout', 'workspace', 'focus', 'kill', 'open', 'fullscreen', 'sticky', 'split', 'floating', 'mark', 'unmark', 'resize', 'rename', 'nop', 'scratchpad', 'swap', 'title_format', 'title_window_icon', 'mode', 'bar', 'gaps'","input":"[ con_id=\"94201393281344\" ] floating disable dotfiles","errorposition":"                                             ^^^^^^^^"}]
+[{"success":true}]
+dotfiles 94201393281344 bash ~/.dotfiles/iceberg/workspaces/minimize.sh
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 bash ~/.dotfiles/iceberg/workspaces/minimize.sh
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 bash ~/.dotfiles/iceberg/workspaces/minimize.sh
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 bash ~/.dotfiles/iceberg/workspaces/minimize.sh
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394106784 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394897280 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394098656 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281344 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281184 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394098656 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393977344 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281184 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281184 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394852576 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281184 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281184 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394852576 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201394852576 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94201393281184 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+bro 94201394093104 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+bro 94505404478048 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+bro 94161341238032 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+bro 94161341238032 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94161341170752 ~
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94161340929344 null
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94161341170752 null
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94161341170752 null
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94161341170752 null
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94161341164768 null
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94161341170752 null
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94161343115120 null
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94161341028016 null
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94161341028016 arandr
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+pb071 94161343200256 kitty
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94317292551584 kitty
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94317292554864 kitty
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+chat 94317292554864 kitty
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+discord 94017011879840 dolphin
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+discord 94017011879840 dolphin
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+discord 94017011879840 dolphin
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+bro 94017011879840 dolphin
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+discord 94017011879840 dolphin
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+bro 94017011879840 dolphin
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+discord 94017011939616 discord
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+discord 94017011939616 discord
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+discord 94017011939616 discord
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+discord 94361534764400 gwenview
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94361534801440 dotfiles
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94361534801440 dotfiles
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94361534801440 dotfiles
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94361534801440 dotfiles
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94361534801440 dotfiles
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+discord 94361534764400 gwenview
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+discord 94361534764400 gwenview
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+steam 94665675597520 kitty
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+steam 93910380643440 steamwebhelper
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+HIDDEN 93910382062976 null
+[{"success":true}]
+[{"success":false,"error":"Nothing to move: workspace empty"}]
+[{"success":true}]
+bro 94516968731472 pulseeffects
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+mb142 94572381302256 pulseeffects
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506614782224 arandr
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+1
+1
+1
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+1 dotfiles
+FAIL
+1 HIDDEN
+[{"success":false,"error":"Nothing to move: specified criteria don't match any window"}]
+[{"success":true}]
+1 dotfiles
+FAIL
+2 dotfiles
+FAIL
+2 dotfiles
+FAIL
+3 dotfiles
+[{"success":true}]
+[{"success":true}]
+3 dotfiles
+FAIL
+dotfiles 94506614782224 arandr
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506614445120 kitty
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+1 dotfiles
+[{"success":true}]
+[{"success":true}]
+2 dotfiles
+FAIL
+1 dotfiles
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506614782224 arandr
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506614445120 kitty
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+2 dotfiles
+[{"success":true}]
+[{"success":true}]
+1 dotfiles
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506614445120 kitty
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+1 dotfiles
+[{"success":true}]
+[{"success":true}]
+dotfiles 94506614445120 kitty
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+1 dotfiles
+[{"success":true}]
+[{"success":true}]
+1 dotfiles
+FAIL
+dotfiles 94506614445120 kitty
+[{"success":true}]
+[{"success":true}]
+[{"success":true}]
+1 dotfiles
+[{"success":true}]
+[{"success":true}]

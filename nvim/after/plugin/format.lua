@@ -22,7 +22,7 @@ format_on_save.setup({
                 typescript = formatters.prettierd,
                 typescriptreact = formatters.prettierd,
                 yaml = formatters.lsp,
-                c = formatters.shell({ cmd = { "clang-format", "--style=file", "%" } }),
+                c = formatters.shell({ cmd = { "clang-format", "--style=file" } }),
 
                 -- Add your own shell formatters:
                 myfiletype = formatters.shell({ cmd = { "myformatter", "%" } }),
