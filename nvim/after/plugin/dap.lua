@@ -2,6 +2,7 @@ local dap, dapui = require("dap"), require("dapui")
 
 
 local debugging = {}
+require('dap-python').setup('~/.virtualenvs/debugpy/bin/python')
 
 function debugging.setup()
         local dap = require("dap")
@@ -35,6 +36,13 @@ function debugging.setup()
         -- local debugpy_root =   mason_registry.get_package("debugpy"):get_install_path()
         require("dap-python").setup( --[[ debugpy_root.. "/venv/bin/python" --]])
         require("dap-python").test_runner = "pytest"
+
+        dap.adapters.python = {
+
+                type = "python",
+                request = "launch",
+                name = "Launch file"
+        }
 
         dap.configurations.lua = {
                 {

@@ -103,6 +103,7 @@ return require('packer').startup(function(use)
 
         --  -- DAP (yes, dap)
         use { "rcarriga/nvim-dap-ui", requires = { "mfussenegger/nvim-dap" } }
+        use 'mfussenegger/nvim-dap-python'
         -- COLOR SCHEMES ---------------------------------------------------------------
         use 'navarasu/onedark.nvim'
         use "xiyaowong/transparent.nvim"
